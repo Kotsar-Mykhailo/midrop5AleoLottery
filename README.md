@@ -1,5 +1,8 @@
 # lottery.aleo
 
+Discord:  midrop5
+Twitter: @midrop5
+
 ## Run Guide
 
 To run this program, run:
